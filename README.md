@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of csineneo/vivaldi-club-bbcode.** Not for installation: use [Packagist](https://packagist.org/packages/csineneo/vivaldi-club-bbcode) or the [upstream repository](https://github.com/Csineneo/vivaldi-club-bbcode).
 
-**0** versions archived · Latest: [`v0.1.6.1`](https://github.com/flarchive/csineneo-vivaldi-club-bbcode/tree/archive/v0.1.6.1) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**3** versions archived · Latest: [`v0.1.6.1`](https://github.com/flarchive/csineneo-vivaldi-club-bbcode/tree/archive/v0.1.6.1) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.5` | 2019-01-09 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/csineneo-vivaldi-club-bbcode/tree/archive/v0.1.5) |
+| `v0.1.6` | 2019-01-09 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/csineneo-vivaldi-club-bbcode/tree/archive/v0.1.6) |
+| `v0.1.6.1` | 2019-01-16 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/csineneo-vivaldi-club-bbcode/tree/archive/v0.1.6.1) |
 
 Catalog entry: [packages/csineneo-vivaldi-club-bbcode.json](https://github.com/flarchive/archive-index/blob/main/packages/csineneo-vivaldi-club-bbcode.json)
 
